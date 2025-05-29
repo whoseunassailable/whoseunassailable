@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rohan
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning to be a Flutter developer
 - 📫 You can contact me on the links given below ::
 LinkedIn : https://www.linkedin.com/in/rohan-bhande-08091a169/
 Telegram : @whoseunassailable
