@@ -32,6 +32,9 @@ I love working on **user-first products** that blend clean UX, solid architectur
 - Mentoring new devs  
 - Practicing Data Structures and Algorithms
 
+
+
+
 ---
 
 ## ☕ Fun Facts
@@ -39,5 +42,14 @@ I love working on **user-first products** that blend clean UX, solid architectur
 - Down for whiteboarding ideas any day, anywhere  
 
 ---
+
+## 🎮 Play My Developer Game
+
+🚀 Ever wanted to build your own app startup? Try out  
+🧠 **Tech Stack Tycoon** – a fun game about building features, making stack decisions, and earning karma!
+
+👉 [Play it here](https://yourusername.github.io/tech-stack-tycoon)  
+*(No sign-up, just code & chaos.)*
+
 
 🧑‍💼 [Portfolio]() | 📬 [Email]() | 🐦 [Twitter]() | 💼 [LinkedIn]()
