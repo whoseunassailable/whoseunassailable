@@ -32,9 +32,6 @@ I love working on **user-first products** that blend clean UX, solid architectur
 - Mentoring new devs  
 - Practicing Data Structures and Algorithms
 
-
-
-
 ---
 
 ## ☕ Fun Facts
@@ -48,8 +45,12 @@ I love working on **user-first products** that blend clean UX, solid architectur
 🚀 Ever wanted to build your own app startup? Try out  
 🧠 **Tech Stack Tycoon** – a fun game about building features, making stack decisions, and earning karma!
 
-👉 [Play it here](https://yourusername.github.io/tech-stack-tycoon)  
+👉 [Play it here](https://whoseunassailable.github.io/tech-stack-tycoon)  
 *(No sign-up, just code & chaos.)*
 
+---
 
-🧑‍💼 [Portfolio]() | 📬 [Email]() | 🐦 [Twitter]() | 💼 [LinkedIn]()
+## 📫 Connect With Me
+📬 [rohanbhande@email.com](mailto:rohanbhande@email.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/rohanbhande)
+🧑‍💼 [Portfolio]()
